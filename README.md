@@ -11,4 +11,4 @@ I opened up that screenshot in Photoshop, and then I realized that the coordinat
 
 The entire thing was meant to be a dark, tongue-in-cheek parody of an example project from one of my teacher's former students where it drew a little Rudolph the Red-Nosed Reindeer to his eponymous song. At the very end of the project, it asks "Would you like to light up Rudolph's Nose?" If you typed yes, of course his nose would light-up red. I wanted to do something much more elaborate.
 
-In order for the program to work properly to it's full effect, you'll need a WAV of Gene Kelly's "Singin' in the Rain" (not uploaded because even the zipped file was too large for github's 25MB cap), and you need to name it SING.wav. Then put that file in the same folder as the .py file. After that, un-comment lines 9 and 43.
+In order for the program to work properly to it's full effect, you'll need a WAV of Gene Kelly's "Singin' in the Rain" (not uploaded because even the zipped file was too large for github's 25MB cap), and you need to name it SING.wav. Then put that file in the same folder as the .py file. After that, un-comment lines 9 and 2004.
