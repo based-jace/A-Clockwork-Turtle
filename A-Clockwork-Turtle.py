@@ -11,7 +11,7 @@ winsound.PlaySound('SING.wav',winsound.SND_ASYNC)
 setup(800, 480)
 bgcolor("#bdc3c3")
 
-# https://www.youtube.com/watch?v=PRZy_GuyCrQ 3:33
+#intial setup
 pensize(1)
 shape("arrow")
 penup()
