@@ -6,7 +6,7 @@ import winsound
 import turtle
 from turtle import *
 
-winsound.PlaySound('SING.wav',winsound.SND_ASYNC)
+#winsound.PlaySound('SING.wav',winsound.SND_ASYNC)
 
 setup(800, 480)
 bgcolor("#bdc3c3")
@@ -2001,6 +2001,6 @@ while True:
 
 raw_input("")
 
-winsound.PlaySound(None,winsound.SND_ASYNC)
+#winsound.PlaySound(None,winsound.SND_ASYNC)
 
 done()
