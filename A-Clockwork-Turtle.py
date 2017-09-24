@@ -1999,9 +1999,7 @@ while True:
     else:
         print "Please print 'yes' or 'no'"
 
-
-
-raw_input("Viddy well.")
+raw_input("")
 
 winsound.PlaySound(None,winsound.SND_ASYNC)
 
