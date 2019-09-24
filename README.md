@@ -1,5 +1,5 @@
 # A-Clockwork-Turtle
-Made in 11 hours in Python's Turtle graphics.
+Made in 11 hours in Python 2's Turtle graphics.
 The goal of the project was to make something (anything) using Turtle. Most people's go-to was to experiment a little with Python's random function creating semi-random geometric designs. I thought, "Hey. I want to re-create a still from A Clockwork Orange." So that's what I did. 
 
 My first order of business was to open up VLC along with the movie, and then I took a screenshot of the clip I wanted to use. 
