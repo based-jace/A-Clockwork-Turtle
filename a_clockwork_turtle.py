@@ -1,12 +1,11 @@
-#Jace Medlin
-#CIS 120
-#4/25/17
+# Jace Medlin
+# CIS 120
+# 4/25/17
 
-import winsound
-import turtle
 from turtle import *
+from playsound import playsound
 
-#winsound.PlaySound('SING.wav',winsound.SND_ASYNC)
+playsound("singin.mp3", block=False)
 
 setup(800, 480)
 bgcolor("#bdc3c3")
@@ -15,7 +14,7 @@ bgcolor("#bdc3c3")
 pensize(1)
 shape("arrow")
 penup()
-fill(1)
+# filling()
 ht()
 
 #Floor
@@ -1938,11 +1937,10 @@ goto(79,161)
 dot(4)
 
 
-
-#########FINISH
+# ######## FINISH
 while True:
-    redNose = raw_input("Would you like to light up Alex's nose? (Please type 'yes' or 'no.') ")
-        
+    redNose = input("Would you like to light up Alex's nose? (Please type 'yes' or 'no.') ")
+
     if redNose.lower() == "yes" or redNose.lower() == "y":
         #Red nose
         pencolor('#a81b2e')
@@ -1994,13 +1992,11 @@ while True:
         penup()
         break
     elif redNose.lower() == "n" or redNose.lower() == "no":
-        print "Viddy well."
+        print("Viddy well.")
         break
     else:
-        print "Please print 'yes' or 'no'"
+        print("Please print 'yes' or 'no'")
 
-raw_input("")
-
-#winsound.PlaySound(None,winsound.SND_ASYNC)
+input("")
 
 done()
